@@ -2,6 +2,8 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the accompanying article."
 title: "ifn-marker-specificity: a specificity test for single-gene interferon-associated immune markers"
 version: 1.0.0
+doi: 10.5281/zenodo.24175395
+repository-code: "https://github.com/christophwebner/ifn-marker-specificity"
 license: MIT
 authors:
   - family-names: Ebner
