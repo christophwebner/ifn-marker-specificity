@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "ifn-marker-specificity: a specificity test for single-gene interferon-associated immune markers"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Ebner
+    given-names: Christoph
+    orcid: "https://orcid.org/0000-0002-2033-6228"
+    affiliation: "Department of Obstetrics and Gynecology, Medical University of Innsbruck"
+  - family-names: Hackl
+    given-names: Hubert
+    orcid: "https://orcid.org/0000-0003-4055-3841"
+    affiliation: "Institute of Bioinformatics, Biocenter, Medical University of Innsbruck"
+  - family-names: Marth
+    given-names: Christian
+    orcid: "https://orcid.org/0000-0002-8965-9981"
+    affiliation: "Department of Obstetrics and Gynecology, Medical University of Innsbruck"
+  - family-names: Zeimet
+    given-names: Alain G.
+    orcid: "https://orcid.org/0000-0001-5306-2334"
+    affiliation: "Department of Obstetrics and Gynecology, Medical University of Innsbruck"
+  - family-names: Wieser
+    given-names: Verena
+    orcid: "https://orcid.org/0000-0001-6121-2515"
+    affiliation: "Department of Obstetrics and Gynecology, Medical University of Innsbruck"
