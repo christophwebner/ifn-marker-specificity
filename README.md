@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/1455806703.svg)](https://doi.org/10.5281/zenodo.24175394)
 
-Analysis code for the article **"A specificity test for single-gene interferon-associated immune markers in gynecological and breast cancers"** (Ebner C, Hackl H, Marth C, Zeimet AG, Wieser V; Medical University of Innsbruck).
+Analysis code for the article **"Separating gene-specific from pathway-wide signals of interferon-associated immune markers in gynecological and breast cancers"** (Ebner C, Hackl H, Marth C, Zeimet AG, Wieser V; Medical University of Innsbruck).
 
 The analysis is entirely *in silico* and uses only public data. For each gene, cohort and immune read-out it compares the raw Spearman correlation with the partial correlation after removal of a leave-one-out score of the Reactome Interferon Signaling pathway. The test is calibrated against expression-matched non-interferon genes and synthetic genes, applied to thirteen published markers and to the whole pathway, and repeated in three independent cohorts.
 
